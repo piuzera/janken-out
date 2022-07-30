@@ -1,0 +1,33 @@
+﻿{
+	"version": 1659216278,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hud_playercards-sheet0.png",
+		"images/hud_playercards-sheet1.png",
+		"images/hud_enemycards-sheet0.png",
+		"images/hud_playerportrait-sheet0.png",
+		"images/hud_playerportrait-sheet1.png",
+		"images/hud_playerportrait-sheet2.png",
+		"images/hud_enemyportrait-sheet0.png",
+		"images/hud_enemyportrait-sheet1.png",
+		"images/hud_enemyportrait-sheet2.png",
+		"images/hud_playerhealth-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/bg-sheet1.png",
+		"images/sprite-sheet0.png",
+		"images/fullbody_enemy1-sheet0.png",
+		"images/fullbody_player-sheet0.png",
+		"images/fullbody_ref-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/fadetiled.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
