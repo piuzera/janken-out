@@ -5,7 +5,7 @@
 ![jankengif](https://user-images.githubusercontent.com/11778557/182004466-6f792c7a-5873-4d72-b3e2-fcde9c758a95.gif)
 
 
-This small project is a proof of concept on the viability of utilizing AI generated art on games.
+This small project is a proof of concept on the viability of utilizing AI generated art in videogames.
 
 All the assets presented here were generated with [DALL-E2](https://openai.com/dall-e-2/) and then slighty tweaked to fit on specific functions.
 
