@@ -18,7 +18,7 @@ Inspired by Punch-Out, you'll need to play Rock Paper Scissors and battle your o
 
 ## Contributing
 
-Contribute to the project by providing assets with the correct dimensions, following the templates contained in the project.
+Contribute by providing assets with the correct dimensions, following the templates contained in the project.
 
 Create new characters, card designs, backgrounds and whatever else you think would fit nicely!
 
@@ -27,3 +27,10 @@ Please note that **only AI generated art** will be accepted!
 ## Web Version
 
 The latest release [can be played here](https://ultraarcadebh.com.br/janken-out) if you don't want to download the source files.
+
+## To-Do's
+
+- Cleaner pixels and adjustments
+- Improve prompt engineering
+- AI generated font
+- Overall functionality and code
