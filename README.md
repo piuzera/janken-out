@@ -15,6 +15,13 @@ Inspired by Punch-Out, you'll need to play Rock Paper Scissors and battle your o
 
 ![example1](https://user-images.githubusercontent.com/11778557/182004307-b4b3a642-c582-423e-8501-4d7f05378c3a.png)
 
+## How much did it cost?
+
+In order to create the first version of this game, 35 DALL-E credits were used (140 images).
+
+That means it cost $0.03 USD per image, $4.20 USD in total.
+
+With better prompt engineering, this number would be even lower!
 
 ## Contributing
 
